@@ -1,6 +1,7 @@
 from langchain_ollama.llms import OllamaLLM
 import json
 
+
 # Prompt template
 PROMPT_TEMPLATE = """
 You are an expert C programmer specializing in embedded systems development with strict compliance to MISRA C coding standards and best practices.
